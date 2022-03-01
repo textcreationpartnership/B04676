@@ -1,0 +1,344 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal of a plain and ready way to raise a very great sum of monies, by a tax, or poll upon quick stock, which was never yet charged nor assessed.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04676</idno>
+            <idno type="STC">Wing P136</idno>
+            <idno type="STC">ESTC R224783</idno>
+            <idno type="EEBO-CITATION">52614814</idno>
+            <idno type="OCLC">ocm 52614814</idno>
+            <idno type="VID">175997</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04676)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175997)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2758:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal of a plain and ready way to raise a very great sum of monies, by a tax, or poll upon quick stock, which was never yet charged nor assessed.</title>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Livestock --  Taxation --  Great Britain --  Early works to 1800.</term>
+               <term>Animal industry --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal">
+            <pb n="1" facs="tcp:175997:1"/>
+            <head>A PROPOSAL of a Plain and Ready way to raiſe a very great Sum of Monies, by a Tax, or Poll upon Quick Stock, which was never yet Charged nor Aſſeſſed.</head>
+            <p>THIS preſent Parliament having, like Good Patriots, and Loyal Sub<g ref="char:EOLhyphen"/>jects, generally and unanimouſly declared, they are reſolved to ſup<g ref="char:EOLhyphen"/>port His Majeſty againſt his Enemies both at home and abroad, and effectually ſupply him to carry on the War againſt <hi>France</hi> with Vigor. Thinking of the many great Occaſions, and extraordinary Neceſſity there will be for raiſing of Monies, and the difficulty of finding Ways, and Means to Effect it; And amongſt other things, conſidering that all Quick Stock, namely, Cattle, Sheep, Horſes, and Swine, have of late years ſold at very good Rates, to the great advantage of Farmers, and all other Proprietors of them; and in all probability like to continue ſo as long as the War laſts; it being the occaſion of the extraordinary Conſumption, and Uſe of thoſe Goods, more Meat being ſpent in Victualling the Fleets, and more Horſes imploy'd in the Army. There<g ref="char:EOLhyphen"/>fore, with all humble ſubmiſſion to the Great Wiſdom and Underſtanding of the Honourable Houſe of Commons, I here propoſe a Tax upon Quick Stock, being never charg'd before; altho' perhaps it may be objected, and ſaid, that Quick Stock is the Product of the Land, and to lay a Tax upon that, is to lay a heavier burden upon Land; but to ſolve that is anſwer'd, That as all good and kind Landlords pay, and bear all, or the greateſt part of the Land-Tax of 4 ſhillings <hi>per</hi> Pound, ſo it is propoſed that the Tenants, and Proprietors bear all the Tax of the Quick Stock; And then altho' the Load be heavier, there will be more hands to ſupport and bear it; and if a Weight be increaſed, as long as there are more Bearers, it will be carried with the ſame eaſe as it was before when lighter, and had fewer ſupporters; And there being alſo a great quantity of Monies imployed, and got by the Quick Stock as well as the dead Trading Stock; It is preſumed, with humble ſubmiſſion, that the one is no more an Exciſe than the other, and that it is not unreaſonable that one ſhould be Taxed as well as the other; eſpecailly at this juncture of time when there are ſo many great occaſions for raiſing of Monies. And as the laſt Par<g ref="char:EOLhyphen"/>liament gave an inſtance for Taxing dead Trading Stock, ſo I moſt humbly re<g ref="char:EOLhyphen"/>fer it to the Great Wiſdom and Conſideration of the preſent Parliament for the Taxing of the Quick Stock; which, as hereafter proportioned, cannot be thought a grievous, or heavy Tax, being but about the ſixtieth penny of every Mans Quick Stock; and yet if duly Aſſeſſed, and Collected, may, its preſumed, raiſe in one year more than three times the ſum the Chimney Money did; and if approved of, may be continued one year or more, as the Parliament in their Great Wiſdom ſhall think requiſite, and neceſſary, and may ſerve for a Fund for the making good, and Re-coining the Clip'd and Corrupt Monies of the Nation, or for any other ſupply; And what thinking and unprejudiced Man, where there is an abſolute neceſſity, would not willingly, without grumbling, part with a Penny out of five Shillings towards redreſſing ſo great a grievance as the Clip'd and Corrupt Monies is, and to ſecure Religion, and Property.</p>
+            <div type="part">
+               <head>The Method and Rates of this Tax propoſed to be laid upon Quick Stock, <hi>viz.</hi> Cattle, Sheep, Horſes, and Swine, are as followeth;</head>
+               <p>
+                  <hi>FIRST,</hi> For Cattle, being in all Counties ſome good, and ſome indifferent, it is propoſed to Tax them in all Counties alike, <hi>viz.</hi> A Calf under a year old, a penny; A year old two pence; A young Beaſt two years old, four pence; A young Beaſt three years old eight pence; And at four years old (being then partly come to their full growth) or upward, twelve pence.</p>
+               <pb n="2" facs="tcp:175997:2"/>
+               <p>Next for Sheep, there being a difference in their Breed; in ſome Coun<g ref="char:EOLhyphen"/>tries the generality of them being not worth one with another above 4 <hi>s.</hi> or 5 <hi>s.</hi> a piece; and in other Countries the generality of them being worth 9 <hi>s.</hi> or 10 <hi>s.</hi> a piece one with another: It is therefore propoſed to Tax them dif<g ref="char:EOLhyphen"/>ferently: And in thoſe places where the generality of them are worth but 4 <hi>s.</hi> or 5 <hi>s.</hi> a piece, to Tax every Sheep at 3 Farthings <hi>per Annum;</hi> and where they are generally worth 9 <hi>s.</hi> or 10 <hi>s.</hi> a piece, to Tax them at 3 Half pence a Sheep; and all to be reckon'd Sheep, excepting Lambs under 6 Months old.</p>
+               <p>For Horſes, they being in all Countries as Cattle are, ſome good, and ſome indifferent, it is propoſed to Tax them alike in all Counties, <hi>viz.</hi> A Foal under a Year old 3 Half-pence <hi>per Annum,</hi> a Year old 3 <hi>d.</hi> a two Year old 6 <hi>d.</hi> a three Year old 9 <hi>d.</hi> a four Year old 12 <hi>d.</hi> and at five Years old (being then near their full growth) 15 <hi>d.</hi> And for every Stone-Horſe, Gelding, or Mare of that Age, or more, being worth 10 <hi>l.</hi> to be Taxed 2 <hi>s.</hi> 6 <hi>d.</hi> and for the more equality of the Thing, if worth 15 <hi>l.</hi> then to be Taxed 3 <hi>s.</hi> 9 <hi>d.</hi> and if worth 20 <hi>l.</hi> to be Taxed 5 <hi>s.</hi> but to Rate none higher, becauſe a Horſe that is really worth 20 <hi>l.</hi> is as uſeful, and good for Service, as one that may be valued to three times that Price: And none to be free, or exempted, but Military Officers and Soldiers Horſes, that are actually in His Majeſty's preſent Pay and Service.</p>
+               <p>And laſtly, For Swine in all Countries, to Tax and Aſſeſs every One that is worth Five Shillings, a Penny; if worth Ten Shillings, 2 <hi>d.</hi> if worth 15 <hi>s.</hi> then 3 <hi>d.</hi> and ſo on to the utmoſt value: But none to be rated but ſuch as are worth 5 <hi>s.</hi> a piece.</p>
+               <p>Having thus ſet down the ſeveral Rates propoſed to Tax the Quick Stock at, I now come to propoſe a way for the exact Aſſeſſing and Managing this Tax, and to make it plain and eaſie, without Rigour or Partiality: In the firſt place it is propoſed, That there be two Aſſeſſors choſen in every Pariſh, on more, where it is large and requires it, that are conſcientious and underſtand<g ref="char:EOLhyphen"/>ing Men, who are to be ſworn to do Juſtice to the beſt of their Judgment and Knowledge, in taking an exact Account of every Man's Quick Stock afore<g ref="char:EOLhyphen"/>ſaid, and in valuing and aſſeſſing the ſame according to the forementioned Rates, and to make true Duplicates thereof in the Form hereafter ſhown; whereof one to be given to the Collectors of the Pariſh, to gather the ſaid Tax by; and another to the general Receiver of the County, that he may un<g ref="char:EOLhyphen"/>derſtand what is due from every Pariſh. And for the receiving and collecting of the ſaid Tax, the Collectors of the Land-Tax in every Pariſh, and the ge<g ref="char:EOLhyphen"/>neral Receiver of that Aſſeſsment in the County may ſerve, having the ſame Allowance <hi>per Pound</hi> for the receiving of this as is allowed for the Land-Tax; and ſo it will come readily, and at an eaſie Charge, into His Majeſty's <hi>Ex<g ref="char:EOLhyphen"/>chequer.</hi>
+               </p>
+               <p>For the commencing of this Tax, it is propoſed to be from <hi>Lady-Day,</hi> 1697. for the Year 1697. And for the time of aſſeſſing and making this Tax, it is propoſed to be betwixt <hi>Lady-Day</hi> and <hi>May-Day;</hi> and ſo by that time if may be exactly known what it will amount to.</p>
+               <p>The Days of Payment to be as the Land-Tax are.</p>
+               <p>And, to prevent Diſputes and Evaſions, it is further propoſed, That every Perſon and Proprietor ſhall be aſſeſſed for all the Quick Stock aforeſaid, which ſhall be found in his poſſeſſion at the time of Aſſeſſing, whether bred, bought, or ſold, that he may not pretend they are not his own, and ſo not to be Taxed for them.</p>
+               <p>And if any Perſon ſhall conceal, or deny to give a juſt and true Account of his Quick Stock (which is not eaſie to be done, becauſe every Man's Quick Stock is viſible, and known to his Neighbours) all ſuch Cattle, Sheep, Horſes, and Swine, ſo concealed, or denied, to be forfeited, and one Moity of the value thereof to go to the Diſcoverer, and the other to the King, and added to the Duplicate: Or any other Penalty, which the Parliament in their great Wiſdom ſhall think more proper and expedient.</p>
+               <pb n="3" facs="tcp:175997:2"/>
+               <p>
+                  <hi>Note,</hi> That this Tax, if rightly conſider'd, cannot be ſaid to affect the Poor, or oppreſs the Rich, for the Poor having no Quick Stock, are not Chargeable, and thoſe that have, pay but proportionable for what they have, at eaſie, and moderate Rates; but about the Sixtieth Penny, <hi>as aforeſaid,</hi> and ſo cannot be thought to be an Oppreſſion, eſpecially when there is an abſolute neceſſity to raiſe Monies, and, perhaps, no way to be found out that will be more effectu<g ref="char:EOLhyphen"/>al, and more reaſonable, and moderate, and give leſs Offence and Diſturbance to the People than this; for, here are no Officers to Inſult, or Impoſe, but ſuch as every Pariſh chuſes it ſelf, and thoſe ſuch as are alike concern'd: Nor can it be ſaid to lie heavy upon the Bearers, when it is alſo conſider'd, that the Tenants and Farmers, (being the generality of the Proprietors of the Quick Stock) have had very good Times, by the well ſelling of their Commodity, and, in a manner, paid little or nothing towards Carrying on the War; and there being many extraordinary, and preſſing occaſions for Monies, which muſt be ſupplied, and that this Propoſal will effectually raiſe a very conſide<g ref="char:EOLhyphen"/>rable Sum, and be readily, and eaſily managed, It is therefore humbly preſu<g ref="char:EOLhyphen"/>med, it is better to do it ſuch a way, than to clogg peoples Purſes and Patience with lingering Payments for many years; for, as in deſperate Diſtempers, a ſharp Remedy, that will effect the Cure, is better bore, and taken by a Pa<g ref="char:EOLhyphen"/>tient, than a tedious Courſe of Phyſick, which requires many ſmall, and trou<g ref="char:EOLhyphen"/>bleſom Medicines, of which he ſees no end and may, perhaps, be overtaken with another Illneſs, before he is recovered of that which at preſent he lan<g ref="char:EOLhyphen"/>guiſhes under. But beſides all; This Tax carries no weight, nor force, either to hurt the Buyer, or Seller, for it is but about a Penny in 5 <hi>s.</hi> which, in any Commodity of that value, is but an inconſiderable ſhare, and alters it but little in its Rate or Price, and ſo cannot be thought any ſenſible prejudice to the Poor, in making any thing dearer they are to buy.</p>
+               <p>
+                  <table>
+                     <head>An Example for the Form of the Aſſeſſment or Duplicate.</head>
+                     <row>
+                        <cell role="label">A. B. <hi>Quick Stock.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>l.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>s.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>d.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>4 Calves, under a Year old, at a Penny a-piece</cell>
+                        <cell>0</cell>
+                        <cell>00</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>4 Year old Calves, at 2 <hi>d.</hi> a-piece</cell>
+                        <cell>0</cell>
+                        <cell>00</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>6 two Year old, at 4 <hi>d.</hi> a-piece</cell>
+                        <cell>0</cell>
+                        <cell>02</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>7 three Years old, at 8 <hi>d.</hi> a-piece</cell>
+                        <cell>0</cell>
+                        <cell>04</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>6 four Year old, at 12 <hi>d.</hi> a piece</cell>
+                        <cell>0</cell>
+                        <cell>06</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Sheep 100, at 3 Farthings a-piece</cell>
+                        <cell>0</cell>
+                        <cell>06</cell>
+                        <cell>3</cell>
+                     </row>
+                     <row>
+                        <cell>2 Foals under a Year old, at 3 Half-pence a-piece</cell>
+                        <cell>0</cell>
+                        <cell>00</cell>
+                        <cell>3</cell>
+                     </row>
+                     <row>
+                        <cell>3 of One Year old, at 3 <hi>d.</hi> a-piece</cell>
+                        <cell>0</cell>
+                        <cell>00</cell>
+                        <cell>9</cell>
+                     </row>
+                     <row>
+                        <cell>2 of two Years old, at 6 <hi>d.</hi> a-piece</cell>
+                        <cell>0</cell>
+                        <cell>01</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>3 of three Years old, at 9 <hi>d.</hi> a-piece</cell>
+                        <cell>0</cell>
+                        <cell>02</cell>
+                        <cell>3</cell>
+                     </row>
+                     <row>
+                        <cell>2 of four Years old, at 12 <hi>d.</hi> a-piece</cell>
+                        <cell>0</cell>
+                        <cell>02</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>2 young Horſes of five Years old, at 15 <hi>d.</hi> a-piece</cell>
+                        <cell>0</cell>
+                        <cell>02</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>And one of five Years old, worth 10 <hi>l.</hi>
+                        </cell>
+                        <cell>0</cell>
+                        <cell>02</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell role="total">In all</cell>
+                        <cell role="total">1</cell>
+                        <cell role="total">12</cell>
+                        <cell role="total">1</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">F. G. <hi>Quick Stock.</hi>
+                        </cell>
+                        <cell role="label"> </cell>
+                        <cell role="label"> </cell>
+                        <cell role="label"> </cell>
+                     </row>
+                     <row>
+                        <cell>6 Cows at 12 <hi>d.</hi> a-piece</cell>
+                        <cell>0</cell>
+                        <cell>06</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>8 Oxen at 12 <hi>d.</hi> a-piece</cell>
+                        <cell>0</cell>
+                        <cell>08</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>200 Sheep at 3 Farthings a-piece</cell>
+                        <cell>0</cell>
+                        <cell>12</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>2 Horſes, 5 Years old, at 15 <hi>d.</hi> a-piece</cell>
+                        <cell>0</cell>
+                        <cell>02</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>6 Swine worth 20 <hi>s.</hi> a-piece</cell>
+                        <cell>0</cell>
+                        <cell>02</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell role="total">In all</cell>
+                        <cell role="total">1</cell>
+                        <cell role="total">10</cell>
+                        <cell role="total">0</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">T. S. <hi>Quick Stock.</hi>
+                        </cell>
+                        <cell role="label"> </cell>
+                        <cell role="label"> </cell>
+                        <cell role="label"> </cell>
+                     </row>
+                     <row>
+                        <cell>4 Cows at 12 <hi>d.</hi> a-piece</cell>
+                        <cell>0</cell>
+                        <cell>04</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>5 young Beaſts, 3 Years old, at 8 <hi>d.</hi> a-piece</cell>
+                        <cell>0</cell>
+                        <cell>03</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>50 Sheep worth 9 <hi>s.</hi> or 10 <hi>s.</hi> a-piece, at 3 Half-pence each</cell>
+                        <cell>0</cell>
+                        <cell>06</cell>
+                        <cell>3</cell>
+                     </row>
+                     <row>
+                        <cell>2 Horſes, 5 Years old, at 15 <hi>d.</hi> a-piece</cell>
+                        <cell>0</cell>
+                        <cell>02</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>2 young Horſes, two Years old, at 6 <hi>d.</hi> a-piece</cell>
+                        <cell>0</cell>
+                        <cell>01</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>3 Swine worth 15 <hi>s.</hi> a-piece</cell>
+                        <cell>0</cell>
+                        <cell>00</cell>
+                        <cell>9</cell>
+                     </row>
+                     <row>
+                        <cell role="total">In all</cell>
+                        <cell role="total">0</cell>
+                        <cell role="total">17</cell>
+                        <cell role="total">10</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>And ſo on.</p>
+               <closer>
+                  <signed>W. P.</signed>
+               </closer>
+               <pb facs="tcp:175997:3"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
